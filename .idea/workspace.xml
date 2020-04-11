@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42bffc31-7985-4815-9f49-ec2692ee77cf" name="Default Changelist" comment="" />
+    <list default="true" id="42bffc31-7985-4815-9f49-ec2692ee77cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="263">
+              <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
             </state>
           </provider>
         </entry>
@@ -47,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/Message.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/ChatSocket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-955">
+            <state relative-caret-position="196">
               <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -112,11 +114,11 @@
         <option value="$PROJECT_DIR$/src/main/java/websocket/Login.java" />
         <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/page/index.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/example/controller/DemoController.java" />
         <option value="$PROJECT_DIR$/src/main/Java/example/controller/Message.java" />
         <option value="$PROJECT_DIR$/src/main/Java/example/controller/ChatSocket.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/page/chat.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -136,8 +138,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="-20" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1750" />
     <option name="height" value="985" />
   </component>
@@ -364,6 +366,7 @@
       <workItem from="1586409764919" duration="10292000" />
       <workItem from="1586440301495" duration="7000" />
       <workItem from="1586570052461" duration="1743000" />
+      <workItem from="1586573471182" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="第一版本">
       <created>1586571056729</created>
@@ -383,10 +386,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12042000" />
+    <option name="totallyTimeSpent" value="12187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -396,7 +400,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28794327" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2869318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/page/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -499,6 +496,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/ChatSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/DemoController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -509,23 +516,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/ChatSocket.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-955">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="84">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/example/controller/Message.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="263">
+          <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
         </state>
       </provider>
     </entry>
